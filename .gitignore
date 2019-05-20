@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/public/css/font-awesome-4.7.0
+/resources/assets
+/storage/*.key
+/database
+/database/migrations
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
